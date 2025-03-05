@@ -1,5 +1,5 @@
 # MH2p CarPlay Navigation Compass Ignore
-Allows showing maps in instrument cluster when phone navigation is running.
+Allows showing internal maps in instrument cluster when phone navigation is running.
 ## License
  - This file is part of MH2p_NaviCompassIgnore, licensed under CC BY-NC-SA 4.0.
  - https://creativecommons.org/licenses/by-nc-sa/4.0/
